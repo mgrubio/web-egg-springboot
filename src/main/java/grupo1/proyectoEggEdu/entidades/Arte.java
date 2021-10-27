@@ -5,10 +5,6 @@
  */
 package grupo1.proyectoEggEdu.entidades;
 
-/**
- *
- * @author Emir
- */
 public class Arte {
     
 }
